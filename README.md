@@ -4,7 +4,10 @@
 
 I recently bought an [Ender 5 Plus](https://www.creality3dofficial.com/products/creality-ender-5-plus-3d-printer). I knew that, out-of-the-box, it wasn't the right printer for me but I couldn't find any printer that _was_ the right printer (for me for any price). So, I decided to buy the Ender 5 Plus and think of it as basis rather than finished product and upgrade it to what I actually wanted. I plan on documenting my journey in this repo. 
 
-## Why are you using GitHub for this?
+---
+## FAQ
+
+### Why are you using GitHub for this?
 
 While GitHub is tradtionally used for software, it actually is just a great platform for working in the public. Here are a few motivations:
 
@@ -14,7 +17,7 @@ While GitHub is tradtionally used for software, it actually is just a great plat
 * I prefer to use markdown over HTML or any type of WYSIWYG editors (Google Docs, etc.)
 * It's free and public with zero upkeep overhead.
 
-## Why not [insert kit printer]?
+### Why not [insert kit printer]?
 
 I talked to some folks who have built kit printers and, frankly, I don't have the time nor patience for those. In general, it seems like those are aimed at people who want to build the printer as a hobby itself. That's not my goal. I like designing things and printing them but I want a printer that suits my needs. 
 
