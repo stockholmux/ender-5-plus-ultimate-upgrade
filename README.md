@@ -6,7 +6,8 @@ I recently bought an [Ender 5 Plus](https://www.creality3dofficial.com/products/
 
 ## Progress
 
-You can track the progress on the [GitHub Project](https://github.com/users/stockholmux/projects/2/views/1).
+You can track the progress on the [GitHub Project](https://github.com/users/stockholmux/projects/2/views/1). There is also a list of the current [specs](/specs.md).
+
 
 ---
 ## FAQ
