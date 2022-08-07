@@ -36,7 +36,7 @@ If by submitting a pull request? I mean, you _can_, but I won't accept PRs unles
 
 ### Can I fork this repo?
 
-Knock yourself out, I guess,
+Knock yourself out, I guess.
 
 ---
 
