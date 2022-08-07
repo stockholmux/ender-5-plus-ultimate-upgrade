@@ -28,6 +28,16 @@ I talked to some folks who have built kit printers and, frankly, I don't have th
 
 Additionally, I wanted a working printer along the way. My upgrades should give me a working, but maybe not ideal printer, while parts arrive and I find the time to make the upgrades or changes.
 
+### Can I contribute? 
+
+If by submitting a pull request? I mean, you _can_, but I won't accept PRs unless you're coming to my house and installing something on my printer. Maybe you wantted to do a PR to correct my grammar or spelling, that would be cool.
+
+*However,* I do welcome feedback on issues and pull requests! Feel free to thumb up and comment on issues and PRs! 
+
+### Can I fork this repo?
+
+Knock yourself out, I guess,
+
 ---
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
