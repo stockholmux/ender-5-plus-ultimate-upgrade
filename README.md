@@ -4,6 +4,10 @@
 
 I recently bought an [Ender 5 Plus](https://www.creality3dofficial.com/products/creality-ender-5-plus-3d-printer). I knew that, out-of-the-box, it wasn't the right printer for me but I couldn't find any printer that _was_ the right printer (for me for any price). So, I decided to buy the Ender 5 Plus and think of it as basis rather than finished product and upgrade it to what I actually wanted. I plan on documenting my journey in this repo. 
 
+## Progress
+
+You can track the progress on the [GitHub Project](https://github.com/users/stockholmux/projects/2/views/1).
+
 ---
 ## FAQ
 
