@@ -8,8 +8,8 @@
 
 
 ## Extrusion System
-- Single Gear Metal Creality Extruder
-- Bowden
+- Micro Swiss direct drive adapter
+- Micro Swiss dual gear extruder
 - Filament runout sensor
 
 ## Print Bed
