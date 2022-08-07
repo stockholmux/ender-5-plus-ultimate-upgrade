@@ -9,6 +9,8 @@
 
 ## Extrusion System
 - Single Gear Metal Creality Extruder
+- Bowden
+- Filament runout sensor
 
 ## Print Bed
 - Max Bed Temp: 110c
