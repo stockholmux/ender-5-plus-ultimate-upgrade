@@ -1,10 +1,10 @@
 # Current specs:
 
 
-## Hotend (Stock Creality Hotend)
-- Max Printing Temp: 260c
-- PTFE Lined Hotend
-- 0.4mm Stainless Steel Nozzle
+## Hotend
+- [Phaetus Dragonfly Hotend BMS](https://www.phaetus.com/dragonflybms/)
+- Max Temp: 500c
+- Hardened Steel Nozzle
 
 
 ## Extrusion System
