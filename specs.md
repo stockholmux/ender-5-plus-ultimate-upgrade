@@ -2,9 +2,9 @@
 
 
 ## Hotend
-- [Phaetus Dragonfly Hotend BMS](https://www.phaetus.com/dragonflybms/)
+- [Phaetus Dragonfly Hotend BMS](https://www.phaetus.com/dragonflybms/) (all metal)
 - Max Temp: 500c
-- Hardened Steel Nozzle
+- Plated Copper Hot End
 
 
 ## Extrusion System
